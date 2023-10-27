@@ -330,10 +330,6 @@ body {
   z-index: 200;
 }
 
-.mb-1 {
-  margin-bottom: .25rem;
-}
-
 .mb-2 {
   margin-bottom: .5rem;
 }
@@ -473,14 +469,6 @@ body {
 .select-none {
   -webkit-user-select: none;
   user-select: none;
-}
-
-.list-disc {
-  list-style-type: disc;
-}
-
-.grid-flow-row {
-  grid-auto-flow: row;
 }
 
 .grid-cols-2 {
@@ -849,10 +837,6 @@ body {
 
 .text-secondary-foreground {
   color: hsl(var(--secondary-foreground));
-}
-
-.underline {
-  text-decoration-line: underline;
 }
 
 .underline-offset-4 {
