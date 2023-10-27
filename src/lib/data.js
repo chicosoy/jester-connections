@@ -1,33 +1,33 @@
 export const CONNECTION_GAMES = [
   [
     {
-      category: "Black Women Authors",
-      words: ["Toni", "Paule", "Zora", "Alice"],
+      category: "UK BASED",
+      words: ["FRIMMY", "SASH", "JAMPOT", "MCGURK"],
       difficulty: 1,
-      imageSrc: "https://i.ibb.co/Gn36Ypb/Connections-1.png",
+      //imageSrc: "https://i.ibb.co/Gn36Ypb/Connections-1.png",
     },
     {
-      category: "Michael ____",
-      words: ["Jackson", "Jordan", "Johnson", "Tyson"],
+      category: "BILINGUAL GIRLS",
+      words: ["METHE", "OCEANA", "ADELA", "VIKI"],
       difficulty: 2,
-      imageSrc: "https://i.ibb.co/3B44zXX/Connections-2.png",
+      //imageSrc: "https://i.ibb.co/3B44zXX/Connections-2.png",
     },
     {
-      category: "Black Greek Sorority Symbols",
-      words: ["Poodle", "Dove", "Ivy", "Pyramid"],
+      category: "HAVE MET DADDY IN PERSON",
+      words: ["CARROT", "JIN", "SAVAGE", "BLASTER"],
       difficulty: 3,
-      imageSrc: "https://i.ibb.co/4MwD7zv/Connections-3.png",
+      //imageSrc: "https://i.ibb.co/4MwD7zv/Connections-3.png",
     },
 
     {
-      category: "Boyz II Men",
-      words: ["Michael", "Nathan", "Wanyá", "Shawn"],
+      category: "DECEMBER BIRTHDAYS",
+      words: ["QUARRIS", "GLEB", "STRAWBERRY", "MUFFIN"],
       difficulty: 4,
-      imageSrc:
-        "https://i.ibb.co/V2vnr5P/boys2men-2-d53afdddf480401fac1204a3954aa5f6.webp",
+      // imageSrc:
+      //   "https://i.ibb.co/V2vnr5P/boys2men-2-d53afdddf480401fac1204a3954aa5f6.webp",
     },
   ],
-  [
+  /*[
     {
       category: "Countries in West Africa",
       words: ["Nigeria", "Cameroon", "Togo", "Benin"],
@@ -76,5 +76,5 @@ export const CONNECTION_GAMES = [
       difficulty: 4,
       imageSrc: "https://i.ibb.co/pP1xn0Z/Connections.png",
     },
-  ],
+  ],*/
 ];

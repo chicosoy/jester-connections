@@ -42,7 +42,7 @@ function GameControlButtonsPanel({
       toast({
         label: "Notification",
         title: "Repeated Guess",
-        description: "You previously made this guess!",
+        description: "You previously made this guess you dumb fuck!",
       });
 
       return;
