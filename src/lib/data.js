@@ -4,77 +4,68 @@ export const CONNECTION_GAMES = [
       category: "UK BASED",
       words: ["FRIMMY", "SASH", "JAMPOT", "MCGURK"],
       difficulty: 1,
-      //imageSrc: "https://i.ibb.co/Gn36Ypb/Connections-1.png",
     },
     {
       category: "BILINGUAL GIRLS",
       words: ["METHE", "OCEANA", "ADELA", "VIKI"],
       difficulty: 2,
-      //imageSrc: "https://i.ibb.co/3B44zXX/Connections-2.png",
     },
     {
       category: "HAVE MET DADDY IN PERSON",
       words: ["CARROT", "JIN", "SAVAGE", "BLASTER"],
       difficulty: 3,
-      //imageSrc: "https://i.ibb.co/4MwD7zv/Connections-3.png",
     },
 
     {
       category: "DECEMBER BIRTHDAYS",
       words: ["QUARRIS", "GLEB", "STRAWBERRY", "MUFFIN"],
       difficulty: 4,
-      // imageSrc:
-      //   "https://i.ibb.co/V2vnr5P/boys2men-2-d53afdddf480401fac1204a3954aa5f6.webp",
     },
   ],
-  /*[
+  [
     {
-      category: "Countries in West Africa",
-      words: ["Nigeria", "Cameroon", "Togo", "Benin"],
+      category: "KIDS (ONE WAY OR ANOTHER)",
+      words: ["FAKE", "GIA", "SMITHI", "GARRY"],
       difficulty: 1,
     },
     {
-      category: "Countries in East Africa",
-      words: ["Tanzania", "Kenya", "Ethiopia", "Somalia"],
+      category: "VALORANT PLAYERS",
+      words: ["CHICO", "FRIMMY", "BLASTER", "OCEANA"],
       difficulty: 2,
     },
     {
-      category: "Countries in North Africa",
-      words: ["Morocco", "Algeria", "Tunisia", "Libya"],
+      category: "SERVER BOOSTERS",
+      words: ["DERK", "MCGURK", "CAMBO", "BANGLED"],
       difficulty: 3,
     },
+
     {
-      category: "African Islands",
-      words: ["Madagascar", "Mauritius", "Comoros", "Mayotte"],
+      category: "PURPLE NAMES (LMAOOO)",
+      words: ["SOPH", "CHOCOPUN", "BRAPPSKOG", "SLIFER"],
       difficulty: 4,
     },
   ],
   [
     {
-      category: "California Rappers",
-      words: ["O'Shea", "Eric", "Lesane", "Todd"],
+      category: "MOD _____",
+      words: ["MAIL", "ABUSE", "DED", "TEAM"],
       difficulty: 1,
-      imageSrc:
-        "https://i.discogs.com/_6S_T2JFzUkXiFTQR_293P-4oCkI4o4_CvRCmDidvqI/rs:fit/g:sm/q:90/h:600/w:584/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY4NzEx/OC0xNTEyMjA3Njkz/LTYyNzMuanBlZw.jpeg",
     },
     {
-      category: "Liquor Brands Owned by Rap Artists",
-      words: ["D'ussé", "Effen", "Belair", "Ciroc"],
+      category: "SERVER BOTS",
+      words: ["BIRTHDAY", "JOCKIE", "UNO", "MARRIAGE"],
       difficulty: 2,
-      imageSrc:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToL3q2acAIfM-Co_IcAtPCcc4yslTGSdhDgg&usqp=CAU",
     },
     {
-      category: "Hair Styles",
-      words: ["Bob", "Weave", "Fade", "Taper"],
+      category: "THINGS IN POLUS STORAGE ROOM",
+      words: ["CANISTER", "HOLE", "BOXES", "SHELF"],
       difficulty: 3,
     },
 
     {
-      category: "Black Mayors",
-      words: ["Bass", "Turner", "Adams", "Washington"],
+      category: ">FISH 'CAUGHT TRASH' EMOJIS",
+      words: ["PAPERCLIP", "BUCKET", "FAX", "BROOM"],
       difficulty: 4,
-      imageSrc: "https://i.ibb.co/pP1xn0Z/Connections.png",
     },
-  ],*/
+  ],
 ];
