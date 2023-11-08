@@ -673,16 +673,16 @@ body {
   padding: .25rem;
 }
 
+.p-2 {
+  padding: .5rem;
+}
+
 .p-4 {
   padding: 1rem;
 }
 
 .p-6 {
   padding: 1.5rem;
-}
-
-.p-2 {
-  padding: .5rem;
 }
 
 .px-2 {
@@ -877,6 +877,14 @@ body {
 
 .text-secondary-foreground {
   color: hsl(var(--secondary-foreground));
+}
+
+.underline {
+  text-decoration-line: underline;
+}
+
+.decoration-sky-500 {
+  text-decoration-color: #0ea5e9;
 }
 
 .underline-offset-4 {
